@@ -12,6 +12,7 @@ Utilizaremos distintos archivos:
 
 1️⃣ Obtención de información de PROTEÍNAS y COMPUESTOS BIOLÓGICOS:
   - **Funcion** de creación de la lista con ID's desde la **API** y **función** de descarga como .cif
+  - 
 2️⃣ PROGRAMA PRINCIPAL: extraigo el ID 1tup y determino su identificador en UniProt a través de su API.
 
 3️⃣ PANDAS DATAFRAME: creación del df con las columnas necesarias.
